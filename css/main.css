@@ -613,6 +613,15 @@ section {
   line-height: 36px;
 }
 
+.corta {
+  font-size: 18px;
+  text-decoration: line-through;
+}
+
+.por-apenas {
+  font-size: 14px;
+}
+
 .price span {
   font-size: 14px;
   line-height: 14px;
