@@ -142,6 +142,8 @@ section {
   font-size: 48px;
   font-weight: 700;
   margin-bottom: 30px;
+  width: 70%;
+  margin: 0 auto;
 }
 
 .caption .btn-start {
