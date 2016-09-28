@@ -18,7 +18,7 @@ h2 {
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .parallax {
@@ -260,6 +260,9 @@ section {
 /*************************
 ********Service CSS*******
 **************************/
+#services p{
+  font-size: 17px;
+}
 
 .service-icon {
   border-radius: 4px;
@@ -305,6 +308,10 @@ section {
 #about-us h2 {
   margin-top: 0;
   color: #fff;
+}
+
+#about-us p {
+  font-size: 17px;
 }
 
 #about-us .lead {
@@ -471,6 +478,10 @@ section {
 /*************************
 *********Team CSS*********
 **************************/
+#team p{
+  font-size: 17px;
+}
+
 .team-members {
   margin-bottom: 25px;
 }
@@ -577,6 +588,10 @@ section {
 /*************************
 *****Pricing Table CSS****
 **************************/
+#pricing p {
+  font-size: 17px;
+}
+
 .pricing-table {
   text-align: center;
 }
@@ -815,6 +830,9 @@ section {
 /*************************
 **********Contact CSS*****
 **************************/
+#contact p {
+  font-size: 17px;
+}
 
 #contact {
   padding-top: 45px;
