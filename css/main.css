@@ -975,8 +975,10 @@ ul.address {
 /*Presets*/
 
 /*CRONOMETRO*/
-.cronometro{
-  display: inline;
+
+
+@media (max-width: 800px) {
+  .frame {
+    display: none;
+  }
 }
-
-

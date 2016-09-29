@@ -123,6 +123,11 @@ body a:hover { color: #000000; }
 
 #wrapper { background-color:#000000; }
 
+#top {
+	margin-left: 15%;
+	margin-top: 4%;
+	margin-bottom: 0%;
+}
 
 /* -----------------------------------------------------
 
@@ -303,6 +308,7 @@ footer .back-to-top > i{
 
 ----------------------------------------------------- */
 
+
 /* SCREEN WIDTH */
 #screen-width { content: "1200"; }
 
@@ -420,8 +426,6 @@ footer .back-to-top > i{
 }
 
 .texto {
-	float:left;
-	margin-left: -30px;
-	margin-right: 10px;
-	color:#000000;
+	color:#00BCD4;
+	float: left;
 }
